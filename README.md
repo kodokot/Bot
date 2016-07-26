@@ -1,0 +1,2 @@
+# Bot
+Wallet bot
